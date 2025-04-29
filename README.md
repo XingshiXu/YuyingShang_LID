@@ -1,4 +1,4 @@
-# YuyingShang_LID ![](https://img.shields.io/badge/Contributor-YuyingShang-brightgreen.svg)  ![]
+# YuyingShang_LID 
 ### Light-Inflorescence-Detection: A Lightweight method for apple inflorescence detection in natural environments
 
 To find the dataset used in this study, please make sure all files are downloaded from 
